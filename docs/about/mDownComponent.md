@@ -1,0 +1,1 @@
+I'm a component that is telling you about the about page
